@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.github.fabriciolfj
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jpa, gradle, http-client, java, java-application, jdbc-hikari, junit, logback, lombok, management, mysql, netflix-hystrix, netty-server, openapi, readme, shade, spring, spring-data-jpa, spring-web, testcontainers, yaml]
